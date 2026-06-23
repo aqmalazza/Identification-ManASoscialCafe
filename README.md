@@ -34,6 +34,7 @@ Repository: <https://github.com/aqmalazza/ReceiptSimulation-ManASoscialCafe.git>
 ```text
 .
 ├── assets/
+│   ├── app-preview.png
 │   ├── ERD.png
 │   └── Table Relationship.png
 │
@@ -81,11 +82,11 @@ Tabel `detail_transaksi` digunakan sebagai tabel penghubung antara `transaksi` d
 
 ### ERD
 
-![ERD](ReceiptSimulation/assets/ERD.png)
+![ERD](assets/ERD.png)
 
 ### Table Relationship
 
-![Table Relationship](ReceiptSimulation/assets/Table%20Relationship.png)
+![Table Relationship](assets/Table%20Relationship.png)
 
 ---
 
@@ -188,7 +189,7 @@ Keterangan file:
 ### 5. Masuk ke Folder Aplikasi
 
 ```bash
-cd apps
+cd ReceiptSimulation/apps
 ```
 
 ### 6. Install Dependency Python
@@ -337,13 +338,7 @@ Repository: <https://github.com/aqmalazza/ReceiptSimulation-ManASoscialCafe.git>
 
 ## Application Preview
 
-Add the application screenshot in this section after the project runs successfully.
-
-```md
 ![Application Preview](assets/app-preview.png)
-```
-
-Place the main application screenshot directly under the **Application Preview** section so visitors can quickly understand the final result of the project.
 
 ---
 
@@ -352,6 +347,7 @@ Place the main application screenshot directly under the **Application Preview**
 ```text
 .
 ├── assets/
+│   ├── app-preview.png
 │   ├── ERD.png
 │   └── Table Relationship.png
 │
@@ -510,7 +506,7 @@ File explanation:
 ### 5. Go to the Application Folder
 
 ```bash
-cd apps
+cd ReceiptSimulation/apps
 ```
 
 ### 6. Install Python Dependencies
